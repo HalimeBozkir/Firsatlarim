@@ -15,4 +15,6 @@ Bu oluşturulan fırsatlar JSON yapısı ile mobil platformlara dağıtılacak.
 
 Projenin sağladığı faydalar (amaç): Kullanıcının ürünleri takip ederek daha uygun fiyata almasını sağlamak.
 
-Projenin kaynakları: Proje ekibi ve yazılım donanım ihtiyaçları yazılır.
+Projenin kaynakları: Web tarafında php kullanılacak. Mobil tarafı native yazılacak. 
+Android için java, iOS için Objective-c ve Swift teknolojileri kullanılacak.
+Projenin Konusu: Markaların fırsatları ile kullanıcıları buluşturan mobil (Android & iOS) uygulamadır.
