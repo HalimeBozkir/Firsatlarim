@@ -2,8 +2,7 @@
 
 Proje Adı : Fırsatlarım
 
-Projenin Konusu:  Bu başlıkta projenin ne olduğunu birkaç cümle ile yazınız. 
-Örn: Facebook: herkese açık, profil oluşturulan, yazı, fotoğraf, video paylaşılabilen, arkadaşları buluşturan bir web tabanlı sosyal ağ projesi. 
+Projenin Konusu: Markaların fırsatları ile kullanıcıları buluşturan mobil (Android & iOS) uygulamadır.
 
 Proje Özeti: Her giriş yapan kullanıcının markalar tarafından verilen fırsatları görüntüleyebilecek bir mobil platform uygulaması.
 
@@ -17,4 +16,3 @@ Projenin sağladığı faydalar (amaç): Kullanıcının ürünleri takip ederek
 
 Projenin kaynakları: Web tarafında php kullanılacak. Mobil tarafı native yazılacak. 
 Android için java, iOS için Objective-c ve Swift teknolojileri kullanılacak.
-Projenin Konusu: Markaların fırsatları ile kullanıcıları buluşturan mobil (Android & iOS) uygulamadır.
