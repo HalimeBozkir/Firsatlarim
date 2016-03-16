@@ -7,7 +7,11 @@ Projenin Konusu:  Bu başlıkta projenin ne olduğunu birkaç cümle ile yazın�
 
 Proje Özeti: Her giriş yapan kullanıcının markalar tarafından verilen fırsatları görüntüleyebilecek bir mobil platform uygulaması.
 
-Projenin Kapsamı: Facebook ile giriş yapılarak, kullanıcının beğendiği sayfalar referans alınıp üç kategori önerisi vererek takip edeceği kategoriler belirlenecek. Bu kategorilere ait farklı fırsatlar sunulacak. Her bir fırsat takip edilebilecek ve beğenilebilecek. Fırsatlar, markalar tarafından web sitesi üzerinden oluşturulabilecek. Bu oluşturulan fırsatlar JSON yapısı ile mobil platformlara dağıtılacak. 
+Projenin Kapsamı: 
+Facebook ile giriş yapılarak, kullanıcının beğendiği sayfalar referans alınıp üç kategori önerisi vererek takip edeceği kategoriler belirlenecek. 
+Bu kategorilere ait farklı fırsatlar sunulacak. 
+Her bir fırsat takip edilebilecek ve beğenilebilecek. Fırsatlar, markalar tarafından web sitesi üzerinden oluşturulabilecek. 
+Bu oluşturulan fırsatlar JSON yapısı ile mobil platformlara dağıtılacak. 
 
 Projenin sağladığı faydalar (amaç): Kullanıcının ürünleri takip ederek daha uygun fiyata almasını sağlamak.
 
